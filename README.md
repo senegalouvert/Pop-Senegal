@@ -1,12 +1,12 @@
 # Pop Senegal
 Élection présidentielle 2019, réactions sur la page Facebook de la **RTS1 Sénégal**.
 
-![GitHub Logo](assets/img/J5.png)
+![GitHub Logo](assets/img/5.png)
 
 Décompte de chaque réaction sur les posts des candidats à élection présidentielle 2019 du Sénégal. Toutes ces données sont exportées sous forme de fichier CSV et peuvent être importées dans n’importe quel programme d’analyse de données comme Excel.
 
 ## Mise à jour
-**Date: 2019-02-08 10:36:50.911758**
+**Date: 2019-02-16 15:30:10.310750**
 
 ## Métadonnée
 ```
